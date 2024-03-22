@@ -1,6 +1,6 @@
 ![](https://count.getloli.com/get/@win5923.github.readme?theme=rule34)
 
-![](https://komarev.com/ghpvc/?username=win5923&style=flat&color=green&base=1037)
+![](https://komarev.com/ghpvc/?username=win5923&style=flat&color=green&base=1028)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -35,5 +35,3 @@
 ![Alpine Linux](https://img.shields.io/badge/-Alpine_Linux-05122A?style=flat&logo=alpine-linux&logoColor=005880)&nbsp;
 
 ![Blocka's GitHub stats](https://github-readme-stats.vercel.app/api?username=win5923&show_icons=true&theme=tokyonight)
-
-![](https://metrics.lecoq.io/win5923?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FTaipei)
