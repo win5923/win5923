@@ -1,3 +1,7 @@
+![](https://count.getloli.com/get/@win5923.github.readme?theme=rule34)
+
+![](https://komarev.com/ghpvc/?username=win5923&style=flat&color=green&base=1037)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🌱 Currently learning Go, Kubernetes, Istio, Azure, Linux Networking
@@ -32,7 +36,4 @@
 
 ![Blocka's GitHub stats](https://github-readme-stats.vercel.app/api?username=win5923&show_icons=true&theme=tokyonight)
 
-### Profile Views
-counting of visitors to this page in this section started from March 23, 2023
-
-![](https://count.getloli.com/get/@win5923.github.readme)
+![](https://metrics.lecoq.io/win5923?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FTaipei)
