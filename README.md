@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 Preparing for graduate school
+- 🎓 Preparing for master's exams
 - 🌱 Currently learning Go, Kubernetes, Istio, Azure, Linux Networking
 - 💬 Ask me about CI/CD, Observability, Service Mesh
 
