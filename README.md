@@ -1,4 +1,4 @@
-![](https://count.getloli.com/get/@win5923?theme=rule34)
+//![](https://count.getloli.com/get/@win5923?theme=rule34)
 
 ![](https://komarev.com/ghpvc/?username=win5923&style=flat&color=green&base=987)
 
